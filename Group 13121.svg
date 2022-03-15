@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="49.004" height="49.004" viewBox="0 0 49.004 49.004">
+  <g id="Group_13121" data-name="Group 13121" transform="translate(-382 -4230.523)">
+    <g id="Group_12980" data-name="Group 12980" transform="translate(-2 -4296.83)">
+      <g id="Ellipse_332" data-name="Ellipse 332" transform="translate(384 8527.354)" fill="none" stroke="#fb5012" stroke-width="2">
+        <ellipse cx="24.502" cy="24.502" rx="24.502" ry="24.502" stroke="none"/>
+        <ellipse cx="24.502" cy="24.502" rx="23.502" ry="23.502" fill="none"/>
+      </g>
+    </g>
+    <g id="facebook" transform="translate(393.162 4242.173)">
+      <path id="Path_9167" data-name="Path 9167" d="M22.492,0H3.213A3.216,3.216,0,0,0,0,3.213V22.492A3.216,3.216,0,0,0,3.213,25.7H22.492A3.216,3.216,0,0,0,25.7,22.492V3.213A3.216,3.216,0,0,0,22.492,0Z" fill="#1976d2"/>
+      <path id="Path_9168" data-name="Path 9168" d="M204.049,104.033h-4.016V100.82c0-.887.72-.8,1.607-.8h1.607V96h-3.213a4.819,4.819,0,0,0-4.82,4.82v3.213H192v4.016h3.213v8.836h4.82v-8.836h2.41Z" transform="translate(-182.361 -91.18)" fill="#fafafa"/>
+    </g>
+  </g>
+</svg>

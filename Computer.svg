@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50.552" height="50.552" viewBox="0 0 50.552 50.552">
+  <g id="Computer" transform="translate(-4 -4)">
+    <path id="Path_8341" data-name="Path 8341" d="M54.552,40H4v4.514a2.708,2.708,0,0,0,2.708,2.708H51.844a2.708,2.708,0,0,0,2.708-2.708ZM29.276,46.319a2.708,2.708,0,1,1,2.708-2.708A2.708,2.708,0,0,1,29.276,46.319Z" transform="translate(0 -3.502)" fill="#fb5012"/>
+    <circle id="Ellipse_283" data-name="Ellipse 283" cx="1" cy="1" r="1" transform="translate(28.276 39)" fill="#800020"/>
+    <path id="Path_8342" data-name="Path 8342" d="M43.276,58.9a.9.9,0,0,0-.9-.9H18.9a.9.9,0,0,0-.9.9v.9H43.276Z" transform="translate(-1.362 -5.254)" fill="#800020"/>
+    <path id="Path_8343" data-name="Path 8343" d="M54.552,6.708A2.708,2.708,0,0,0,51.844,4H6.708A2.708,2.708,0,0,0,4,6.708V34.692H54.552Z" fill="#fb5012"/>
+    <path id="Path_8344" data-name="Path 8344" d="M25.474,50l-2.031,5.416H38.892L36.861,50Z" transform="translate(-1.892 -4.475)" fill="#800020"/>
+  </g>
+</svg>
